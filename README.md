@@ -1,3 +1,14 @@
+# Eaglercraft 1.12.2 Base Client
+Go to src/java/baseclient/gg/dhyeybg/baseclient
+For Source code and Hacked Client Making files
+
+<img width="1358" height="593" alt="Screenshot 2026-10-07 19 16 05" src="https://github.com/user-attachments/assets/32b3815c-78bc-4957-a54e-1ca6ac1a0811" />
+
+<img width="1366" height="599" alt="screenshot_2026-10-07_19 16 20" src="https://github.com/user-attachments/assets/f687c986-86a8-4b1c-8b3b-d33909762621" />
+
+
+Default README.md:
+
 # Eaglercraft 1.12
 (README ripped from 1.8)
 
